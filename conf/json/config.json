@@ -1,0 +1,7 @@
+
+{
+    "db": "mysql",
+    "redis": "redis",
+    "kafka": "kafka"
+}
+
